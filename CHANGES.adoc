@@ -1,6 +1,12 @@
 Changelog
 =========
 
+Version 2.4.3
+-------------
+
+- Marked `Template.render` results as safe.
+
+
 Version 2.4.2
 -------------
 
